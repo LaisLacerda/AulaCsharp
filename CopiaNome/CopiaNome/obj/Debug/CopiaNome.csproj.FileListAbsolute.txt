@@ -1,0 +1,10 @@
+C:\Users\Lizandra\Documents\github\csharp\CopiaNome\CopiaNome\bin\Debug\CopiaNome.exe.config
+C:\Users\Lizandra\Documents\github\csharp\CopiaNome\CopiaNome\bin\Debug\CopiaNome.exe
+C:\Users\Lizandra\Documents\github\csharp\CopiaNome\CopiaNome\bin\Debug\CopiaNome.pdb
+C:\Users\Lizandra\Documents\github\csharp\CopiaNome\CopiaNome\obj\Debug\CopiaNome.csprojAssemblyReference.cache
+C:\Users\Lizandra\Documents\github\csharp\CopiaNome\CopiaNome\obj\Debug\CopiaNome.frmCopiar.resources
+C:\Users\Lizandra\Documents\github\csharp\CopiaNome\CopiaNome\obj\Debug\CopiaNome.Properties.Resources.resources
+C:\Users\Lizandra\Documents\github\csharp\CopiaNome\CopiaNome\obj\Debug\CopiaNome.csproj.GenerateResource.cache
+C:\Users\Lizandra\Documents\github\csharp\CopiaNome\CopiaNome\obj\Debug\CopiaNome.csproj.CoreCompileInputs.cache
+C:\Users\Lizandra\Documents\github\csharp\CopiaNome\CopiaNome\obj\Debug\CopiaNome.exe
+C:\Users\Lizandra\Documents\github\csharp\CopiaNome\CopiaNome\obj\Debug\CopiaNome.pdb
